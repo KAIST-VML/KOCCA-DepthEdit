@@ -1,8 +1,6 @@
 # KOCCA-DepthEdit
 
 
-# Interactive Depth Estimation
-
 This repository contains code for Interactive Depth Estimation, allowing you to generate depth maps interactively.
 
 ## Requirements
