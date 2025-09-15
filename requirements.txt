@@ -1,0 +1,16 @@
+dominate>=2.3.1
+dill
+scikit-image
+h5py
+kornia
+matplotlib
+moviepy
+opencv-python
+tensorboard
+timm==0.6.12
+tqdm
+wandb
+prettytable
+einops
+yacs
+torch-distmap
